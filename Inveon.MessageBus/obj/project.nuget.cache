@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "342wBqaHH23qEmN5wBcwRdt3lFViIVSaZJA4mRy2rdS/028zMXeivPUh2XDrGiGVUJMH3wXFDFecHDmi5ez0Rw==",
+  "dgSpecHash": "PRELoO7mYhEhAzNBm09R1ygadSwjqeKIg3RndMoFaiEP54qici/DB5pQxkv90O7JLmaPr0aAxU9jzKdc8++jYA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\dyavu\\Desktop\\ECommerceInveon\\microservices\\Inveon.MessageBus\\Inveon.MessageBus.csproj",
+  "projectFilePath": "C:\\Users\\dyavu\\Desktop\\ECommerceInveon\\InveonECommerce\\Inveon.MessageBus\\Inveon.MessageBus.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

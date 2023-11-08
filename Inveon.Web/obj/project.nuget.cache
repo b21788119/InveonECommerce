@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DibS+ymd/D0ksDgpQAZSLnYafil/0pRfaKB2KGtOYocrtNfBpUc9E1UPuDmBZYR1moXowiqH9bpwQsemfacybw==",
+  "dgSpecHash": "6L4kk764olCoF9vB0XQ7o/uffRI/DoiN6zjQBTeQXUIBlVyhG5Qoau33f5gGVPxGo1WZx5PsMiH0ECAsWSkQgg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\dyavu\\Desktop\\ECommerceInveon\\microservices\\Inveon.Web\\Inveon.Web.csproj",
+  "projectFilePath": "C:\\Users\\dyavu\\Desktop\\ECommerceInveon\\InveonECommerce\\Inveon.Web\\Inveon.Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dyavu\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\dyavu\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

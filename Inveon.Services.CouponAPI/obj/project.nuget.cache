@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rxNhYGKKNYRGcd6D8W4GIKXAf/+6gQMdHxvsgl1MSb2croKYUZphqyj3qY8kXeNk9ttzjAOPi0SpdU2IyICmNg==",
+  "dgSpecHash": "YrLJyK/KuZ+0+vEGS/rqM4jIJ2b05nO3FFMc1eji9cjYoJy5aAUYQmeEfRQQ7n9fmIsrtMIJCRy+3ZcCt8IVOw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\dyavu\\Desktop\\ECommerceInveon\\microservices\\Inveon.Services.CouponAPI\\Inveon.Services.CouponAPI.csproj",
+  "projectFilePath": "C:\\Users\\dyavu\\Desktop\\ECommerceInveon\\InveonECommerce\\Inveon.Services.CouponAPI\\Inveon.Services.CouponAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dyavu\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\dyavu\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",

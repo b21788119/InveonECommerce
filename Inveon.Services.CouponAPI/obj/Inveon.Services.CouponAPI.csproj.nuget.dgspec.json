@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dyavu\\Desktop\\ECommerceInveon\\microservices\\Inveon.Services.CouponAPI\\Inveon.Services.CouponAPI.csproj": {}
+    "C:\\Users\\dyavu\\Desktop\\ECommerceInveon\\InveonECommerce\\Inveon.Services.CouponAPI\\Inveon.Services.CouponAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dyavu\\Desktop\\ECommerceInveon\\microservices\\Inveon.Services.CouponAPI\\Inveon.Services.CouponAPI.csproj": {
+    "C:\\Users\\dyavu\\Desktop\\ECommerceInveon\\InveonECommerce\\Inveon.Services.CouponAPI\\Inveon.Services.CouponAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dyavu\\Desktop\\ECommerceInveon\\microservices\\Inveon.Services.CouponAPI\\Inveon.Services.CouponAPI.csproj",
+        "projectUniqueName": "C:\\Users\\dyavu\\Desktop\\ECommerceInveon\\InveonECommerce\\Inveon.Services.CouponAPI\\Inveon.Services.CouponAPI.csproj",
         "projectName": "Inveon.Services.CouponAPI",
-        "projectPath": "C:\\Users\\dyavu\\Desktop\\ECommerceInveon\\microservices\\Inveon.Services.CouponAPI\\Inveon.Services.CouponAPI.csproj",
+        "projectPath": "C:\\Users\\dyavu\\Desktop\\ECommerceInveon\\InveonECommerce\\Inveon.Services.CouponAPI\\Inveon.Services.CouponAPI.csproj",
         "packagesPath": "C:\\Users\\dyavu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dyavu\\Desktop\\ECommerceInveon\\microservices\\Inveon.Services.CouponAPI\\obj\\",
+        "outputPath": "C:\\Users\\dyavu\\Desktop\\ECommerceInveon\\InveonECommerce\\Inveon.Services.CouponAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

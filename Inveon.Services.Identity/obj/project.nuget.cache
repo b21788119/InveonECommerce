@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "T6Rm1aZhO6T6pcTeV/BIO6wUboagl41GoHW+CbMpqAUw6Ys2AFq9p01WrO90To4L4NS0Qz2YaP50aRWhT1rFjQ==",
+  "dgSpecHash": "Tb+oQ44pOEb8cVNLHfU3To7s9CDuRAzgbAraKffQQqkEJ2wIpgcgmSzJa+trOTnEdXOtzY6CTf6SfDmId1y+hg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\dyavu\\Desktop\\ECommerceInveon\\microservices\\Inveon.Services.Identity\\Inveon.Services.Identity.csproj",
+  "projectFilePath": "C:\\Users\\dyavu\\Desktop\\ECommerceInveon\\InveonECommerce\\Inveon.Services.Identity\\Inveon.Services.Identity.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dyavu\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\dyavu\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

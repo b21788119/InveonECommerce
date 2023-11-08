@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IwUU9UNdgT1vwsp+79dZG1jgrdnPJcFgCxaW4BkTqw0e5FFuNZM0S5CUAHf7Ne1/RcUj8SWZ5gIRd8y41NTd6Q==",
+  "dgSpecHash": "9SQJQcd3+e3VGrWtQDrT8xSxRyp1w88Zva33OZWSlomCWkxX0guwJAyNTlrqlSzXnxNM5C+DCchVSQp06Ww1zg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\dyavu\\Desktop\\ECommerceInveon\\microservices\\Inveon.Services.Emails\\Inveon.Services.Email.csproj",
+  "projectFilePath": "C:\\Users\\dyavu\\Desktop\\ECommerceInveon\\InveonECommerce\\Inveon.Services.Emails\\Inveon.Services.Email.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dyavu\\.nuget\\packages\\bouncycastle.cryptography\\2.2.1\\bouncycastle.cryptography.2.2.1.nupkg.sha512",
     "C:\\Users\\dyavu\\.nuget\\packages\\mailkit\\4.2.0\\mailkit.4.2.0.nupkg.sha512",

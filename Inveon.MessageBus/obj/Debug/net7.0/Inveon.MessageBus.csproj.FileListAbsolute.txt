@@ -33,3 +33,14 @@ C:\Users\dyavu\Desktop\ECommerceInveon\microservices\Inveon.MessageBus\obj\Debug
 C:\Users\dyavu\Desktop\ECommerceInveon\microservices\Inveon.MessageBus\obj\Debug\net7.0\refint\Inveon.MessageBus.dll
 C:\Users\dyavu\Desktop\ECommerceInveon\microservices\Inveon.MessageBus\obj\Debug\net7.0\Inveon.MessageBus.pdb
 C:\Users\dyavu\Desktop\ECommerceInveon\microservices\Inveon.MessageBus\obj\Debug\net7.0\ref\Inveon.MessageBus.dll
+C:\Users\dyavu\Desktop\ECommerceInveon\InveonECommerce\Inveon.MessageBus\bin\Debug\net7.0\Inveon.MessageBus.deps.json
+C:\Users\dyavu\Desktop\ECommerceInveon\InveonECommerce\Inveon.MessageBus\bin\Debug\net7.0\Inveon.MessageBus.dll
+C:\Users\dyavu\Desktop\ECommerceInveon\InveonECommerce\Inveon.MessageBus\bin\Debug\net7.0\Inveon.MessageBus.pdb
+C:\Users\dyavu\Desktop\ECommerceInveon\InveonECommerce\Inveon.MessageBus\obj\Debug\net7.0\Inveon.MessageBus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dyavu\Desktop\ECommerceInveon\InveonECommerce\Inveon.MessageBus\obj\Debug\net7.0\Inveon.MessageBus.AssemblyInfoInputs.cache
+C:\Users\dyavu\Desktop\ECommerceInveon\InveonECommerce\Inveon.MessageBus\obj\Debug\net7.0\Inveon.MessageBus.AssemblyInfo.cs
+C:\Users\dyavu\Desktop\ECommerceInveon\InveonECommerce\Inveon.MessageBus\obj\Debug\net7.0\Inveon.MessageBus.csproj.CoreCompileInputs.cache
+C:\Users\dyavu\Desktop\ECommerceInveon\InveonECommerce\Inveon.MessageBus\obj\Debug\net7.0\Inveon.MessageBus.dll
+C:\Users\dyavu\Desktop\ECommerceInveon\InveonECommerce\Inveon.MessageBus\obj\Debug\net7.0\refint\Inveon.MessageBus.dll
+C:\Users\dyavu\Desktop\ECommerceInveon\InveonECommerce\Inveon.MessageBus\obj\Debug\net7.0\Inveon.MessageBus.pdb
+C:\Users\dyavu\Desktop\ECommerceInveon\InveonECommerce\Inveon.MessageBus\obj\Debug\net7.0\ref\Inveon.MessageBus.dll

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JUZ3ReoPvx9t+j6XzL9l+o2qxjCzcQha8tnIlZ4LgXD6ff/rdAtxEpcV7gre89IDjD+G47xFVRYtthoTJ33h7Q==",
+  "dgSpecHash": "XTg0BRkn63DQBrYG6vwOgJ7hwGqNGHcoZdhqXeY3vHb1Yb7lSSKHQemwarOvVt87nhA1h3ZcJwhDhukpY9qRwg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\dyavu\\Desktop\\ECommerceInveon\\microservices\\Inveon.GatewaySolution\\Inveon.GatewaySolution.csproj",
+  "projectFilePath": "C:\\Users\\dyavu\\Desktop\\ECommerceInveon\\InveonECommerce\\Inveon.GatewaySolution\\Inveon.GatewaySolution.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dyavu\\.nuget\\packages\\fluentvalidation\\9.3.0\\fluentvalidation.9.3.0.nupkg.sha512",
     "C:\\Users\\dyavu\\.nuget\\packages\\identitymodel\\5.1.0\\identitymodel.5.1.0.nupkg.sha512",

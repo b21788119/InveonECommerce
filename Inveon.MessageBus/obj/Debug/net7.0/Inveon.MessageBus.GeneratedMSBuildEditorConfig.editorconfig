@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Inveon.MessageBus
-build_property.ProjectDir = C:\Users\dyavu\Desktop\ECommerceInveon\microservices\Inveon.MessageBus\
+build_property.ProjectDir = C:\Users\dyavu\Desktop\ECommerceInveon\InveonECommerce\Inveon.MessageBus\

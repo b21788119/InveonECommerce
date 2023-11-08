@@ -106,7 +106,6 @@ namespace Inveon.Services.Emails
         {
             String email = 
             @$"Sayın {messageDto.FirstName} {messageDto.LastName},Siparisiniz onaylanmıstır.
-           
 >>> Siparis Bilgileri <<< 
 --- Siparis Tutarı : {messageDto.OrderTotal}
 --- İndirim Tutarı : {messageDto.DiscountTotal}

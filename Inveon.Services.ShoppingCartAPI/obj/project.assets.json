@@ -4237,11 +4237,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dyavu\\Desktop\\ECommerceInveon\\microservices\\Inveon.Services.ShoppingCartAPI\\Inveon.Services.ShoppingCartAPI.csproj",
+      "projectUniqueName": "C:\\Users\\dyavu\\Desktop\\ECommerceInveon\\InveonECommerce\\Inveon.Services.ShoppingCartAPI\\Inveon.Services.ShoppingCartAPI.csproj",
       "projectName": "Inveon.Services.ShoppingCartAPI",
-      "projectPath": "C:\\Users\\dyavu\\Desktop\\ECommerceInveon\\microservices\\Inveon.Services.ShoppingCartAPI\\Inveon.Services.ShoppingCartAPI.csproj",
+      "projectPath": "C:\\Users\\dyavu\\Desktop\\ECommerceInveon\\InveonECommerce\\Inveon.Services.ShoppingCartAPI\\Inveon.Services.ShoppingCartAPI.csproj",
       "packagesPath": "C:\\Users\\dyavu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dyavu\\Desktop\\ECommerceInveon\\microservices\\Inveon.Services.ShoppingCartAPI\\obj\\",
+      "outputPath": "C:\\Users\\dyavu\\Desktop\\ECommerceInveon\\InveonECommerce\\Inveon.Services.ShoppingCartAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -4263,8 +4263,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\dyavu\\Desktop\\ECommerceInveon\\microservices\\Inveon.MessageBus\\Inveon.MessageBus.csproj": {
-              "projectPath": "C:\\Users\\dyavu\\Desktop\\ECommerceInveon\\microservices\\Inveon.MessageBus\\Inveon.MessageBus.csproj"
+            "C:\\Users\\dyavu\\Desktop\\ECommerceInveon\\InveonECommerce\\Inveon.MessageBus\\Inveon.MessageBus.csproj": {
+              "projectPath": "C:\\Users\\dyavu\\Desktop\\ECommerceInveon\\InveonECommerce\\Inveon.MessageBus\\Inveon.MessageBus.csproj"
             }
           }
         }

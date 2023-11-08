@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EpAvj3jXI0VMEES5JDMNI2owYobvkmNRJkNXu/v5Oo2Xieg46PQo6KpTvRvwIp8COe2lW9CnP3lSfBtPkX5O4A==",
+  "dgSpecHash": "h47dT7Z64mPIuJ153DAXdEby2uwpn0TH/LzsSSX3aJTmas4RzPdcfRRIEyLmdZulRI6idP0sql56gyahmRWYJQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\dyavu\\Desktop\\ECommerceInveon\\microservices\\Inveon.Services.ShoppingCartAPI\\Inveon.Services.ShoppingCartAPI.csproj",
+  "projectFilePath": "C:\\Users\\dyavu\\Desktop\\ECommerceInveon\\InveonECommerce\\Inveon.Services.ShoppingCartAPI\\Inveon.Services.ShoppingCartAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dyavu\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\dyavu\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",

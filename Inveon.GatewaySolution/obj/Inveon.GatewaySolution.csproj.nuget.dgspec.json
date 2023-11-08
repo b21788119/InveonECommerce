@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dyavu\\Desktop\\ECommerceInveon\\microservices\\Inveon.GatewaySolution\\Inveon.GatewaySolution.csproj": {}
+    "C:\\Users\\dyavu\\Desktop\\ECommerceInveon\\InveonECommerce\\Inveon.GatewaySolution\\Inveon.GatewaySolution.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dyavu\\Desktop\\ECommerceInveon\\microservices\\Inveon.GatewaySolution\\Inveon.GatewaySolution.csproj": {
+    "C:\\Users\\dyavu\\Desktop\\ECommerceInveon\\InveonECommerce\\Inveon.GatewaySolution\\Inveon.GatewaySolution.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dyavu\\Desktop\\ECommerceInveon\\microservices\\Inveon.GatewaySolution\\Inveon.GatewaySolution.csproj",
+        "projectUniqueName": "C:\\Users\\dyavu\\Desktop\\ECommerceInveon\\InveonECommerce\\Inveon.GatewaySolution\\Inveon.GatewaySolution.csproj",
         "projectName": "Inveon.GatewaySolution",
-        "projectPath": "C:\\Users\\dyavu\\Desktop\\ECommerceInveon\\microservices\\Inveon.GatewaySolution\\Inveon.GatewaySolution.csproj",
+        "projectPath": "C:\\Users\\dyavu\\Desktop\\ECommerceInveon\\InveonECommerce\\Inveon.GatewaySolution\\Inveon.GatewaySolution.csproj",
         "packagesPath": "C:\\Users\\dyavu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dyavu\\Desktop\\ECommerceInveon\\microservices\\Inveon.GatewaySolution\\obj\\",
+        "outputPath": "C:\\Users\\dyavu\\Desktop\\ECommerceInveon\\InveonECommerce\\Inveon.GatewaySolution\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
