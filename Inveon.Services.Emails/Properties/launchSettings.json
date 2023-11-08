@@ -1,0 +1,11 @@
+﻿{
+  "profiles": {
+    "Inveon.Services.Emails": {
+      "commandName": "Project",
+      "dotnetRunMessages": true,
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
