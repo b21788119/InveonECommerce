@@ -1241,6 +1241,7 @@ C:\Users\dyavu\Desktop\ECommerceInveon\InveonECommerce\Inveon.Services.Identity\
 C:\Users\dyavu\Desktop\ECommerceInveon\InveonECommerce\Inveon.Services.Identity\bin\Debug\net7.0\appsettings.json
 C:\Users\dyavu\Desktop\ECommerceInveon\InveonECommerce\Inveon.Services.Identity\bin\Debug\net7.0\keys\is-signing-key-16451E5EC6B1A75554F6DC746DD69C5E.json
 C:\Users\dyavu\Desktop\ECommerceInveon\InveonECommerce\Inveon.Services.Identity\bin\Debug\net7.0\keys\is-signing-key-51475BDC7E9035DEFEF4528DDED599F2.json
+C:\Users\dyavu\Desktop\ECommerceInveon\InveonECommerce\Inveon.Services.Identity\bin\Debug\net7.0\keys\is-signing-key-8B11D3ECB08043322EB008318459B69A.json
 C:\Users\dyavu\Desktop\ECommerceInveon\InveonECommerce\Inveon.Services.Identity\bin\Debug\net7.0\keys\is-signing-key-A488167EFCB98164F7D133805550D63E.json
 C:\Users\dyavu\Desktop\ECommerceInveon\InveonECommerce\Inveon.Services.Identity\bin\Debug\net7.0\Inveon.Services.Identity.staticwebassets.runtime.json
 C:\Users\dyavu\Desktop\ECommerceInveon\InveonECommerce\Inveon.Services.Identity\bin\Debug\net7.0\Inveon.Services.Identity.exe

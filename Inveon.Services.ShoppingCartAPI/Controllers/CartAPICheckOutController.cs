@@ -7,6 +7,7 @@ using Inveon.Services.ShoppingCartAPI.Messages;
 using Inveon.Services.ShoppingCartAPI.RabbitMQSender;
 using Inveon.Services.ShoppingCartAPI.Repository;
 using Inveon.Services.ShoppingCartAPI.Models.Dto;
+using System.Diagnostics.Metrics;
 
 namespace Inveon.Service.ShoppingCartAPI.Controllers
 {
@@ -85,19 +86,18 @@ namespace Inveon.Service.ShoppingCartAPI.Controllers
             Options options = new Options();
 
             // Updating the API options here according to my test account.
-            options.ApiKey = "sandbox-NBSonWR4J98ZWbIllfuEhv9uu5EkVkFt";
-            options.SecretKey = "9gJ7NLcqTX8xLKN747qJyqBZyAU9q7Bl";
+            options.ApiKey = "sandbox-vL543CPlFNSa6BWqBGXDF4bvV1Ky4Nr6";
+            options.SecretKey = "A1dyQcCo6dKCdeLOuyTjTRB7zjcuqBAj";
             options.BaseUrl = "https://sandbox-api.iyzipay.com";
 
             CreatePaymentRequest request = new CreatePaymentRequest();
-            request.Locale = Locale.TR.ToString();
             request.ConversationId = new Random().Next(1111, 9999).ToString();
+            request.Locale = Locale.TR.ToString();
             request.Price = checkoutHeaderDto.OrderTotal.ToString();
-            request.PaidPrice = checkoutHeaderDto.OrderTotal.ToString();
+            request.PaidPrice = Math.Ceiling(checkoutHeaderDto.OrderTotal).ToString();
 
             request.Currency = Currency.TRY.ToString();
             request.Installment = 1;
-            request.BasketId = checkoutHeaderDto.CartHeaderId.ToString();
             request.PaymentChannel = PaymentChannel.WEB.ToString();
             request.PaymentGroup = PaymentGroup.PRODUCT.ToString();
 
@@ -127,7 +127,7 @@ namespace Inveon.Service.ShoppingCartAPI.Controllers
             request.Buyer = buyer;
 
             Address shippingAddress = new Address();
-            shippingAddress.ContactName = "Jane Doe";
+            shippingAddress.ContactName = checkoutHeaderDto.FirstName + " " + checkoutHeaderDto.LastName;
             shippingAddress.City = "Istanbul";
             shippingAddress.Country = "Turkey";
             shippingAddress.Description = "Nidakule Göztepe, Merdivenköy Mah. Bora Sok. No:1";
@@ -135,7 +135,7 @@ namespace Inveon.Service.ShoppingCartAPI.Controllers
             request.ShippingAddress = shippingAddress;
 
             Address billingAddress = new Address();
-            billingAddress.ContactName = "Jane Doe";
+            billingAddress.ContactName = checkoutHeaderDto.FirstName + " " + checkoutHeaderDto.LastName;
             billingAddress.City = "Istanbul";
             billingAddress.Country = "Turkey";
             billingAddress.Description = "Nidakule Göztepe, Merdivenköy Mah. Bora Sok. No:1";
@@ -143,26 +143,23 @@ namespace Inveon.Service.ShoppingCartAPI.Controllers
             request.BillingAddress = billingAddress;
 
             List<BasketItem> basketItems = new List<BasketItem>();
-
+            int helper = 101;
             foreach (CartDetailsDto detail in checkoutHeaderDto.CartDetails)
             {
-                int counter = 0;
-                while (counter < detail.Count)
-                {
-                    BasketItem basketItem = new BasketItem();
-                    basketItem.Id = "BI"+detail.ProductId.ToString();
-                    basketItem.Name = detail.Product.Name.ToString();
-                    basketItem.Category1 = detail.Product.CategoryName;
-                    basketItem.Category2 = detail.Product.CategoryName;
-                    basketItem.ItemType = BasketItemType.PHYSICAL.ToString();
-                    basketItem.Price = detail.Product.Price.ToString();
-                    basketItems.Add(basketItem);
-                    counter++;
-                }
+                BasketItem basketItem = new BasketItem();
+                basketItem.Id = "BI"+helper.ToString();
+                basketItem.Name = detail.Product.Name.ToString();
+                basketItem.Category1 = detail.Product.CategoryName;
+                basketItem.ItemType = BasketItemType.PHYSICAL.ToString();
+                basketItem.Price = (detail.Product.Price * detail.Count).ToString();
+                basketItems.Add(basketItem);
+                helper++;
+
             }
-            // Binding basket items to our request.
             request.BasketItems = basketItems;
-            return Payment.Create(request, options);
+            Payment payment = Payment.Create(request, options);
+            // Binding basket items to our request.
+            return payment;
         }
     }
 }
